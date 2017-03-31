@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/yifanxing/Documents/学习/NU Years-2017/Software Development/lvm-rails/app/controllers'
+let g:netrw_dirhist_2='/Users/yifanxing/Documents/学习/SideProjects/lvm-rails/app/views/exams'
+let g:netrw_dirhist_3='/Users/yifanxing/Documents/学习/NU Years-2017/Software Development/lvm-rails/db/fixtures'
+let g:netrw_dirhist_4='/Users/yifanxing/Documents/学习/NU Years-2017/Software Development/lvm-rails/app/views/tutors'
