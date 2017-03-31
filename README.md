@@ -1,7 +1,8 @@
-Installation:
+## Installation:
 
 
-* Follow the steps in ~bundle/Vundle.vim/doc/vundle.txt:
+**Follow the steps in ~bundle/Vundle.vim/doc/vundle.txt:**
+
 1. Setup Vundle:
 >
   git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
@@ -23,10 +24,15 @@ Installation:
 
 4. Put .vimrc file in the same dir with ./vim folder
 5. You can directly modift .vimrc file using vim
-  > Simply launch vim in terminal:
-    vim
-  > Type command
-    :e $MYVIMRC
+   * Simply launch vim in terminal:
+  >
+      vim
+   * Type command
+  >
+      :e $MYVIMRC
+
+
+
 
 
 Thanks for reading! Enjoy your colorful vim :)
