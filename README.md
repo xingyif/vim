@@ -8,7 +8,11 @@
         
 
 
+--------------------------------------------------
+
 **For Mac:**
+
+
 0. cd to your /Home dir, and Clone this repo:
   >
       git clone https://github.com/xingyif/lvm-rails.git
