@@ -4,16 +4,16 @@
 **Follow the steps in ~bundle/Vundle.vim/doc/vundle.txt:**
 
 0. cd to your /Home dir, create a .vim dir, and Clone this repo:
->
-  git clone https://github.com/xingyif/lvm-rails.git
+  >
+      git clone https://github.com/xingyif/lvm-rails.git
   
 1. Setup Vundle:
->
-  git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+  >
+      git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 2. Setup Airline_themes (Probably don't need this step):
->
-  git clone https://github.com/vim-airline/vim-airline-themes ~/.vim/bundle/vim-airline-themes
+  >
+      git clone https://github.com/vim-airline/vim-airline-themes ~/.vim/bundle/vim-airline-themes
 
 3. Install configured bundles
 (skip this step if you cloned my git, which has plugins installed in ~/.vim/bundle):
