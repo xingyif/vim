@@ -1,12 +1,13 @@
 ## Installation:
 
 
-**Follow the steps in ~bundle/Vundle.vim/doc/vundle.txt:**
 
 0. cd to your /Home dir, create a .vim dir, and Clone this repo:
   >
       git clone https://github.com/xingyif/lvm-rails.git
-  
+
+**Follow the steps in ~bundle/Vundle.vim/doc/vundle.txt:**
+
 1. Setup Vundle:
   >
       git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
