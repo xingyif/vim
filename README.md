@@ -1,7 +1,14 @@
 ## Installation:
 
+**For Linux Ubuntu:**
+1. cd to home directory:
+    >
+        cd $HOME
+2. copy the .vimrc file in this repo to $HOME
+        
 
 
+**For Mac:**
 0. cd to your /Home dir, and Clone this repo:
   >
       git clone https://github.com/xingyif/lvm-rails.git
