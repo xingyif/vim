@@ -161,7 +161,8 @@ autocmd FileType python set tabstop=4|set shiftwidth=4|set expandtab
 
 " Colors
 hi clear SignColumn
-hi ColorColumn ctermbg=3
-hi CursorColumn ctermbg=26
-hi CursorLine ctermbg=119
-hi matchParen ctermbg=5
+hi ColorColumn ctermbg=44
+hi CursorColumn ctermbg=39
+hi CursorLine ctermbg=31
+hi matchParen ctermbg=90
+hi Comment guifg=44
